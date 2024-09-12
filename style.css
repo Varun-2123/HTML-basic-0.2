@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+#video{
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+}
+#audio{
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+    width: 30%;
+}
